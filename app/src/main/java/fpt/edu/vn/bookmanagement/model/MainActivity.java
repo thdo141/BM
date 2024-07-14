@@ -1,4 +1,4 @@
-package fpt.edu.vn.bookmanagement.activty.customer;
+package fpt.edu.vn.bookmanagement.model;
 
 import android.app.Activity;
 import android.content.Context;
@@ -17,9 +17,10 @@ import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
 import fpt.edu.vn.bookmanagement.R;
+import fpt.edu.vn.bookmanagement.activity.ForgotPassActivity;
+import fpt.edu.vn.bookmanagement.activity.RegisterActivity;
 import fpt.edu.vn.bookmanagement.activity.admin.AdminHomeActivity;
 import fpt.edu.vn.bookmanagement.activity.customer.CustomerHomeActivity;
-import fpt.edu.vn.bookmanagement.model.User;
 import fpt.edu.vn.bookmanagement.sql.DatabaseHelper;
 
 public class MainActivity extends AppCompatActivity {

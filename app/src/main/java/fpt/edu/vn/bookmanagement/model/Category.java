@@ -1,4 +1,4 @@
-package fpt.edu.vn.bookmanagement.activty.model;
+package fpt.edu.vn.bookmanagement.model;
 
 public class Category {
     private int id;

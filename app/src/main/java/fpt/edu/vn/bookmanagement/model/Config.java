@@ -1,4 +1,4 @@
-package fpt.edu.vn.bookmanagement.activty.model;
+package fpt.edu.vn.bookmanagement.model;
 
 public class Config {
     public static final String EMAIL ="donxthe161569@fpt.edu.vn";

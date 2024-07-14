@@ -1,4 +1,4 @@
-package fpt.edu.vn.bookmanagement.activty.customer;
+package fpt.edu.vn.bookmanagement.model;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -9,7 +9,7 @@ import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 
 import fpt.edu.vn.bookmanagement.R;
-import fpt.edu.vn.bookmanagement.model.SendMail;
+import fpt.edu.vn.bookmanagement.activity.ResetPassActivity;
 import fpt.edu.vn.bookmanagement.sql.DatabaseHelper;
 
 public class ForgotPassActivity extends AppCompatActivity {

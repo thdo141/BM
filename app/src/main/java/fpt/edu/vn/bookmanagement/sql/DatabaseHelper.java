@@ -1,4 +1,4 @@
-package fpt.edu.vn.bookmanagement.activty.sql;
+package fpt.edu.vn.bookmanagement.sql;
 
 
 import android.annotation.SuppressLint;

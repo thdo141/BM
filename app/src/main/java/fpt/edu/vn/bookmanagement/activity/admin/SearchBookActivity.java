@@ -1,4 +1,4 @@
-package fpt.edu.vn.bookmanagement.activty.admin;
+package fpt.edu.vn.bookmanagement.activity.admin;
 
 import android.database.Cursor;
 import android.os.Bundle;

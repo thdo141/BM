@@ -1,4 +1,4 @@
-package fpt.edu.vn.bookmanagement.activty.customer;
+package fpt.edu.vn.bookmanagement.activity;
 
 import android.os.Bundle;
 import android.view.View;
